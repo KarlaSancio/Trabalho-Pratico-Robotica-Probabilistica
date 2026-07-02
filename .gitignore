@@ -1,0 +1,5 @@
+# Ignorar arquivos grandes e de sistema
+log_volta_da_ufes_20230522.txt_lidar/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
