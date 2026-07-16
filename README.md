@@ -70,3 +70,8 @@ A rede foi modificada em relação ao conceito tradicional de convoluções tran
 O relatório detalhado sobre o desenvolvimento, integração e análise probabilística do pipeline de percepção preditiva está disponível na raiz do projeto:
 
 *   **Relatório Final:** [Relatorio_Integracao_Motion_Net.pdf](./Relatorio_Integracao_Motion_Net.pdf)
+
+## Demonstração (Vídeo)
+Video demonstrando a execução:
+
+*    **Link:** https://www.youtube.com/watch?v=HlCmZrmRoZc
